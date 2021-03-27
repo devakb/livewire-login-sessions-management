@@ -1,5 +1,5 @@
 # Laravel Login Sessions Management
-# Laravel & Livewire
+Laravel & Livewire
 
 # Step 1
 -------------------
@@ -31,6 +31,6 @@ Done :)
 
 # Credits
 --------
-Amit Kumar Biswas
-Web Developer
-amitkumarbiswas2001@gmail.com
+Amit Kumar Biswas <br>
+Web Developer <br >
+amitkumarbiswas2001@gmail.com <br>
